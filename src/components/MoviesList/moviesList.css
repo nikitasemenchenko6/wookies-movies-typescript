@@ -1,0 +1,52 @@
+.movies-list{
+    display: flex;
+}
+.genre{
+    padding: 20px 0px;
+    margin-bottom: 20px;
+}
+.movies{
+    position: relative;
+    margin-top: 50px;
+}
+.movies-poster:hover{
+    background-color: black;
+    z-index: 105;
+    width:100%;
+    opacity: .3;
+    transition: all .5s ease-in;
+}
+.movies img {
+    width: 280px;
+    height:340px;
+    margin:10px;
+    z-index: -5;
+    position:relative;
+    transition:all .5s ease-in-out;
+}
+.movies-poster:hover ~ .hover-to-center-movies-desc{
+    z-index: 120;
+    transition: all 0.8s ease-in;
+
+}
+.hover-to-center-movies-desc{
+    position: absolute;
+    padding:10px 10px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%); 
+    color: rgb(0, 0, 0);
+    text-align: center;
+    z-index: -7;
+    transition: 0.8s;
+}
+
+.title {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 800;
+    text-align: center;
+    width:100%;
+    transition: 0.8s;
+    
+}

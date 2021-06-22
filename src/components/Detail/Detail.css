@@ -1,0 +1,48 @@
+.movie-container{
+    display: flex;
+    margin-top: 50px;
+}
+.movies-detial{
+    background-color: rgb(221, 221, 221);
+    height: 100vh;
+}
+.movie-cast {
+    font-size: 20px;
+    font-weight: 450;
+}
+.movie-poster {
+    margin: 20px;
+}
+.movie-desc{
+    padding:0px 20px;
+}
+.movie-desc h2{
+    font-size: 25px;
+}
+.movie-description{
+    padding-right: 20px;
+    line-height: 35px;
+    font-size: 18px;
+    font-weight: 450;
+}
+
+.movie-poster img{
+    width:300px;
+    height:400px;
+}
+.movie-title{
+    display: flex;
+    justify-content:space-between;
+    padding-right: 40px;
+}
+.year-legnth-director{
+    display: flex;
+    line-height: 5px;
+    align-items: center;
+}
+.year-legnth-director p{
+    font-size: 20px;
+    font-weight: 450;
+    padding-right: 10px;
+
+}

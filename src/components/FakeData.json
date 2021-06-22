@@ -1,0 +1,50 @@
+[
+    {   "id":1,
+        "title": "Star Wars : Episode i - A new year",
+        "year": "1998",
+        "length": "11.98hr",
+        "director": "muhit",
+        "cast": "john jscon, cris gayel , ogther",
+        "imbdbID": "tt007656564",
+        "poster": "https://resizing.flixster.com/z-ddhYw0TLBxcKC5p52JLV0lTH0=/180x270/v1.bTsxMzY0OTUxNDtwOzE4OTAxOzIwNDg7MjAwMDszMDAw",
+        "rating": 2,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis ea ab nisi, repellendus fugiat est sapiente illum minus id perspiciatis ipsa veniam provident cumque aliquam voluptas nulla optio, amet, minima nesciunt voluptates. Et odio vel, laborum inventore illum similique reiciendis, doloremque facere sit voluptate quas soluta? Laboriosam maxime atque dolorem cum voluptas minus dolores neque expedita dicta facere hic voluptates placeat, eum quidem soluta officia error. Provident nihil ab est temporibus hic cumque repellat iure, voluptatum unde accusantium exercitationem impedit aliquid explicabo error, cum illum recusandae repellendus quod. Quis velit, quae iste voluptatum doloribus rerum quaerat saepe itaque assumenda modi."
+    },
+    {
+        "id":2,
+        "title": "Star Wars : Episode i - A new year",
+        "year": "1998",
+        "length": "11.98hr",
+        "director": "muhit",
+        "cast": "john jscon, cris gayel , ogther",
+        "imbdbID": "tt007656564",
+        "poster": "https://resizing.flixster.com/Ft4w3rMzk8953GrasrcD5uA9dds=/180x267/v1.bTsxMzY5Njg1MDtqOzE4ODk4OzIwNDg7ODEwMDsxMjAwMA",
+        "rating": 3.5,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis ea ab nisi, repellendus fugiat est sapiente illum minus id perspiciatis ipsa veniam provident cumque aliquam voluptas nulla optio, amet, minima nesciunt voluptates. Et odio vel, laborum inventore illum similique reiciendis, doloremque facere sit voluptate quas soluta? Laboriosam maxime atque dolorem cum voluptas minus dolores neque expedita dicta facere hic voluptates placeat, eum quidem soluta officia error. Provident nihil ab est temporibus hic cumque repellat iure, voluptatum unde accusantium exercitationem impedit aliquid explicabo error, cum illum recusandae repellendus quod. Quis velit, quae iste voluptatum doloribus rerum quaerat saepe itaque assumenda modi."
+    },
+    {
+        "id":3,
+        "title": "Star Wars : Episode i - A new year",
+        "year": "1998",
+        "length": "11.98hr",
+        "director": "muhit",
+        "cast": "john jscon, cris gayel , ogther",
+        "imbdbID": "tt007656564",
+        "poster": "https://resizing.flixster.com/exfK1by2k82NYdo5KVn3qckj5J0=/180x267/v1.bTsxMzYzMzk4MztqOzE4ODk1OzIwNDg7MTk0NDsyODgw",
+        "rating": 5,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis ea ab nisi, repellendus fugiat est sapiente illum minus id perspiciatis ipsa veniam provident cumque aliquam voluptas nulla optio, amet, minima nesciunt voluptates. Et odio vel, laborum inventore illum similique reiciendis, doloremque facere sit voluptate quas soluta? Laboriosam maxime atque dolorem cum voluptas minus dolores neque expedita dicta facere hic voluptates placeat, eum quidem soluta officia error. Provident nihil ab est temporibus hic cumque repellat iure, voluptatum unde accusantium exercitationem impedit aliquid explicabo error, cum illum recusandae repellendus quod. Quis velit, quae iste voluptatum doloribus rerum quaerat saepe itaque assumenda modi."
+    },
+    {
+        "id":4,
+        "title": "Star Wars : Episode i - A new year",
+        "year": "1998",
+        "length": "11.98hr",
+        "director": "muhit",
+        "cast": "john jscon, cris gayel , ogther",
+        "imbdbID": "tt007656564",
+        "poster": "https://resizing.flixster.com/It0z4M7KNlqEHFJw68DaOV16vdA=/180x267/v1.bTsxMzY5MjIzMTtqOzE4OTE0OzIwNDg7Mjc2NDs0MDk2",
+        "rating": 1,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis ea ab nisi, repellendus fugiat est sapiente illum minus id perspiciatis ipsa veniam provident cumque aliquam voluptas nulla optio, amet, minima nesciunt voluptates. Et odio vel, laborum inventore illum similique reiciendis, doloremque facere sit voluptate quas soluta? Laboriosam maxime atque dolorem cum voluptas minus dolores neque expedita dicta facere hic voluptates placeat, eum quidem soluta officia error. Provident nihil ab est temporibus hic cumque repellat iure, voluptatum unde accusantium exercitationem impedit aliquid explicabo error, cum illum recusandae repellendus quod. Quis velit, quae iste voluptatum doloribus rerum quaerat saepe itaque assumenda modi."
+    }
+]
+
